@@ -1,0 +1,28 @@
+[
+  {
+    "person_id": 1,
+    "name": "Person #1",
+    "clock_in": "2026-10-06 23:43:23",
+    "last_seen": "23:44:22",
+    "duration_str": "0m 45s",
+    "duration_seconds": 45.7,
+    "face_recognized": true,
+    "upper_clothing": "Neutral [Textured/Patterned]",
+    "lower_clothing": "Green/Olive",
+    "bag_status": "None",
+    "status": "Present"
+  },
+  {
+    "person_id": 2,
+    "name": "Person #2",
+    "clock_in": "2026-10-06 23:43:24",
+    "last_seen": "23:44:22",
+    "duration_str": "0m 43s",
+    "duration_seconds": 43.1,
+    "face_recognized": false,
+    "upper_clothing": "Black/Dark [Textured/Patterned]",
+    "lower_clothing": "Black/Dark",
+    "bag_status": "None",
+    "status": "Present"
+  }
+]

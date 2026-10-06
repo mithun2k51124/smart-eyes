@@ -1,0 +1,21 @@
+# Python & PyCache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# OS & Environment
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE & Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Large training runs / checkpoints cache (optional)
+runs/detect/*/weights/last.pt
+runs/detect/*/weights/*.tmp

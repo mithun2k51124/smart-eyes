@@ -1,0 +1,15 @@
+# SmartEyes Fish Monitor -- Python Dependencies
+# Install with:  pip install -r requirements.txt
+
+# Core CV & DL
+ultralytics>=8.2.0        # YOLOv8 + ByteTrack bundled
+opencv-python>=4.9.0      # video capture & drawing
+
+# Numeric & Acceleration
+numpy>=1.24.0
+torch>=2.1.0
+onnxruntime-directml>=1.18.0  # AMD GPU DirectML acceleration
+
+# Web Dashboard & Hardware
+flask>=3.0.0
+requests>=2.31.0          # ESP32 / ESP8266 integration

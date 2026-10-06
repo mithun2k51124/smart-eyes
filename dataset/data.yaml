@@ -1,0 +1,8 @@
+# SmartEyes Aquarium Fish Dataset
+path: C:/Users/mithun/Desktop/smart eyes/dataset
+train: train/images
+val: val/images
+
+# Classes
+names:
+  0: fish
